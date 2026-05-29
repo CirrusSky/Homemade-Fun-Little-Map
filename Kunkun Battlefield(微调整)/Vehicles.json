@@ -1,0 +1,48 @@
+{
+	"SaveData": [
+		{
+			"Key": "UAZ",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15662.968645645084,
+						"LocationY": -19585.607451001291,
+						"LocationZ": 614.55084469010103,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "UAZ",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14432.081797634824,
+						"LocationY": -5825.753075631992,
+						"LocationZ": 222.5836626036334,
+						"RotationPitch": 5.2199987471103704,
+						"RotationYaw": 0,
+						"RotationRoll": 0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		}
+	]
+}

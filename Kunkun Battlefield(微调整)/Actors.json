@@ -1,0 +1,356 @@
+{
+	"SaveData": [
+		{
+			"Key": "SpectatorStart",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 5615.2081417989248,
+						"LocationY": -3696.5016326936329,
+						"LocationZ": 3281.9985041204291,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "KamikazeStart",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": -39.436081526696171,
+						"LocationY": -9494.4468645948964,
+						"LocationZ": 2952.4960204880799,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "StrikerStart",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": -39.176338960073736,
+						"LocationY": -9477.3335949740977,
+						"LocationZ": 2935.5869135322387,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "TeamBStart",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 19384.968393865598,
+						"LocationY": -18643.733172733981,
+						"LocationZ": 579.41499684636074,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "TeamAStart",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14056.823266231599,
+						"LocationY": -6758.153330147743,
+						"LocationZ": 179.87497404328678,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Flag",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 17185.428994048321,
+						"LocationY": -8977.2324809674883,
+						"LocationZ": 330.89963785415785,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Flag",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15287.902334566752,
+						"LocationY": -13349.984526483029,
+						"LocationZ": 238.95065658189378,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Flag",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 8294.2300768485275,
+						"LocationY": -8601.7372141582782,
+						"LocationZ": -308.99734254171381,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_PG7VS",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 8268.627282913103,
+						"LocationY": -8737.9920307288976,
+						"LocationZ": -327.92084119612855,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_IEDW1",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 7964.1532450319064,
+						"LocationY": -8103.3293424622861,
+						"LocationZ": -339.4419039626664,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_IEDW1",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18204.612200297601,
+						"LocationY": -17019.494466178039,
+						"LocationZ": 608.98580280962813,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_PG7VS",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18637.580548362599,
+						"LocationY": -17627.723895929179,
+						"LocationZ": 613.28737485200099,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_Striker",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 19182.959094373447,
+						"LocationY": -17269.708941160461,
+						"LocationZ": 614.16466761666732,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_Striker",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14927.679372940911,
+						"LocationY": -5768.651747560476,
+						"LocationZ": 294.3774719561145,
+						"RotationPitch": 0,
+						"RotationYaw": 141.24267767369767,
+						"RotationRoll": 0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_IEDW1",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14969.339960580344,
+						"LocationY": -6329.5730622823321,
+						"LocationZ": 272.51558477779776,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Ammo_FPV_PG7VS",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15455.434072218623,
+						"LocationY": -6287.690316147804,
+						"LocationZ": 305.78131034453486,
+						"RotationPitch": 0,
+						"RotationYaw": 115.933607902378,
+						"RotationRoll": 0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,510 @@
+{
+	"SaveData": [
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 16000.068760216949,
+						"LocationY": -10962.723783782527,
+						"LocationZ": 1191.9284574897392,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 17544.176589930921,
+						"LocationY": -5646.7670822291329,
+						"LocationZ": 1838.459073398421,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15659.032377563901,
+						"LocationY": -6803.844627522245,
+						"LocationZ": 297.52024185741686,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15201.584926611926,
+						"LocationY": -5287.8492736042572,
+						"LocationZ": 271.12382142144622,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 13749.045368047533,
+						"LocationY": -7357.8252743050289,
+						"LocationZ": 193.82152480123904,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14147.14161362059,
+						"LocationY": -7301.0839037282003,
+						"LocationZ": 193.82148095780298,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 12704.40850448623,
+						"LocationY": -11127.460170315326,
+						"LocationZ": 88.540906645443712,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14680.520242080425,
+						"LocationY": -14169.266277507246,
+						"LocationZ": 383.45930987144442,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15999.378774482931,
+						"LocationY": -12466.095965180404,
+						"LocationZ": 378.30686334210907,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 17227.884233844732,
+						"LocationY": -13080.412147077564,
+						"LocationZ": 409.50921155285704,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18112.439212470428,
+						"LocationY": -18475.144147541589,
+						"LocationZ": 640.12009483495467,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18810.417518791397,
+						"LocationY": -18472.83016646199,
+						"LocationZ": 614.96172279432426,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 19108.925947754975,
+						"LocationY": -17412.100679626914,
+						"LocationZ": 1338.9418128207271,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18075.992155660431,
+						"LocationY": -17562.22461320776,
+						"LocationZ": 1311.7648283837416,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 17465.069525410614,
+						"LocationY": -9773.4440960616812,
+						"LocationZ": 329.76792791520018,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 18080.956930807002,
+						"LocationY": -8599.2464454519613,
+						"LocationZ": 319.97796280576966,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 17503.808227111396,
+						"LocationY": -7428.8000916523361,
+						"LocationZ": 324.90939436189012,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 16134.514352059647,
+						"LocationY": -10786.253412173124,
+						"LocationZ": 356.49133125094892,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 15356.138034834665,
+						"LocationY": -15908.115490179287,
+						"LocationZ": 522.26704284522941,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 16131.438356747545,
+						"LocationY": -18961.591108205223,
+						"LocationZ": 697.79192937336961,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14681.299560404354,
+						"LocationY": -10215.563793968446,
+						"LocationZ": 245.46698287807874,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 16547.705081500684,
+						"LocationY": -12507.674339953226,
+						"LocationZ": 391.78451516200141,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		},
+		{
+			"Key": "Soldier",
+			"Variables":
+			{
+				"Transform":
+				{
+					"DataType": "Transform",
+					"Value":
+					{
+						"LocationX": 14937.825873422926,
+						"LocationY": -17683.806873851096,
+						"LocationZ": 657.7874559865686,
+						"RotationPitch": 0,
+						"RotationYaw": 0,
+						"RotationRoll": -0,
+						"ScaleX": 1,
+						"ScaleY": 1,
+						"ScaleZ": 1
+					}
+				}
+			}
+		}
+	]
+}
